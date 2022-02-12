@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jalian Febriandy
+### Hi there 👋 I'm Jalian F
 
 Here are some ideas to get you started:
 
