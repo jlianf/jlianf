@@ -1,4 +1,4 @@
-<h1 align="center">Hy 👋🏻, I'm Jalian Febriandy</h1>
+<h1 align="center">Hy 👋🏻, I'm Jalian Pebriandy</h1>
 <h3 align="center">Never too late to become an Android Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jlianf&color=green" alt="jlianf" /> </p>
